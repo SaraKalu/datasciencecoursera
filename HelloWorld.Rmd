@@ -2,6 +2,6 @@
 title: "HelloWorld"
 author: "Saraiya Kalu"
 date: '`r Sys.Date()`'
-output: text_document
+output: html_document
 ---
-##This is a Markdown file
+## This is a Markdown file
